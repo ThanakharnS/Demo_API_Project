@@ -1,0 +1,3 @@
+- เป็นโปรเจ็ก Demo ที่ใช้ Node.js + Express ในการเขียน 
+- โครงสร้างจะเขียนแบบ routes / MVC
+- มี service 1.Product 2.DataRegister
